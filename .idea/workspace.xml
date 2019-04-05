@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc06310d-7eac-42c3-9207-365438d881e0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/deque.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +15,9 @@
     <SUITE FILE_PATH="coverage/Algorithem_Study$deque.coverage" NAME="deque Coverage Results" MODIFIED="1554179965417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$editor.coverage" NAME="editor Coverage Results" MODIFIED="1552969452642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$queue.coverage" NAME="queue Coverage Results" MODIFIED="1552970548628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithem_Study$alphabet_find.coverage" NAME="alphabet find Coverage Results" MODIFIED="1554439371746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$laser.coverage" NAME="laser Coverage Results" MODIFIED="1553229957059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithem_Study$alphabet_count.coverage" NAME="alphabet count Coverage Results" MODIFIED="1554427093351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$pipe.coverage" NAME="pipe Coverage Results" MODIFIED="1552625570277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$joseph_Perth.coverage" NAME="joseph Perth Coverage Results" MODIFIED="1553834420036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithem_Study$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1553671093711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scool Study" />
@@ -29,24 +30,24 @@
       <file leaf-file-name="deque.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deque.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+            <state relative-caret-position="1368">
+              <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alphabet count.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="alphabet count.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphabet count.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="birthday.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scool Study/birthday.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alphabet find.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alphabet find.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="joseph Perth.py" pinned="false" current-in-tab="false">
@@ -97,6 +98,7 @@
         <option value="$PROJECT_DIR$/Scool Study/birthday.py" />
         <option value="$PROJECT_DIR$/deque.py" />
         <option value="$PROJECT_DIR$/alphabet count.py" />
+        <option value="$PROJECT_DIR$/alphabet find.py" />
       </list>
     </option>
   </component>
@@ -110,7 +112,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
@@ -120,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,16 +130,10 @@
               <item name="Algorithem-Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithem-Study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithem-Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithem-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="Scool Study" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,7 +158,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.deque">
+  <component name="RunManager" selected="Python.alphabet find">
+    <configuration name="alphabet count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithem-Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alphabet count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="alphabet find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithem-Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alphabet find.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="birthday" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithem-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,58 +254,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="laser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithem-Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/laser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithem-Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.queue" />
       <item itemvalue="Python.joseph Perth" />
       <item itemvalue="Python.birthday" />
-      <item itemvalue="Python.laser" />
       <item itemvalue="Python.deque" />
+      <item itemvalue="Python.alphabet count" />
+      <item itemvalue="Python.alphabet find" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alphabet find" />
+        <item itemvalue="Python.alphabet count" />
         <item itemvalue="Python.deque" />
         <item itemvalue="Python.joseph Perth" />
         <item itemvalue="Python.birthday" />
-        <item itemvalue="Python.laser" />
-        <item itemvalue="Python.queue" />
       </list>
     </recent_temporary>
   </component>
@@ -288,17 +285,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.3257821" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010941" side_tool="true" weight="0.3278867" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3279396" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989059" visible="true" weight="0.32686085" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3128371" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946064" visible="true" weight="0.14179105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946064" visible="true" weight="0.14658849" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -344,13 +341,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/marathon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hello, World!.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -595,13 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scool Study/birthday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Scool Study/birthday.py" />
     <entry file="file://$PROJECT_DIR$/joseph Perth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -611,12 +595,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deque.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        <state relative-caret-position="1368">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alphabet count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabet find.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
